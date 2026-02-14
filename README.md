@@ -4,6 +4,8 @@ A planning tool for Rainbow Six Siege players. It helps teams create and save ga
 
 ## Design
 
+![App Design](design/landingpage.png)
+
 ## Features (Coming Soon)
 - Draw and mark up maps
 - Save and organize strategies
@@ -18,3 +20,4 @@ A planning tool for Rainbow Six Siege players. It helps teams create and save ga
 
 ### Requirements
 - Flutter SDK
+
