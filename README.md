@@ -14,7 +14,6 @@ A planning tool for Rainbow Six Siege players. It helps teams create and save ga
 
 ## Technologies
 - Flutter (Dart)
-- 
 
 ## Getting Started
 
@@ -45,3 +44,4 @@ flutter doctor
 ```bash
 flutter run
 ```
+
