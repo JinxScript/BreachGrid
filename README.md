@@ -25,7 +25,7 @@ A planning tool for Rainbow Six Siege players. It helps teams create and save ga
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/breachgrid.git
+   git clone https://github.com/JinxScript/breachgrid.git
    cd breachgrid
 
 ### Install dependencies
